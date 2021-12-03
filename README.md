@@ -1,2 +1,2 @@
 # webhook-sender
-html/js/css tool to send full custom messages via a discord webhook.
+Webpage to send full custom messages via discord webhooks. Made using html, css and javascript.
